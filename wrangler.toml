@@ -1,0 +1,4 @@
+# wrangler.toml
+name = "trojan-sni-proxy"
+main = "index.js"
+compatibility_date = "2026-01-01"
